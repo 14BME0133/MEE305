@@ -18,3 +18,16 @@ click here to get [the .rtf for R-I 004-002-001](./R1_4_2.rtf)
 
 
 click here to get [the .doc for R-I 004-002-001](./R1_4_3.doc)
+
+
+---
+
+## updated: 01:52PM
+
+[main files - .pdf](./r1_5_1.pdf)
+
+
+[main files - .doc](./r1_5_1.doc)
+
+
+[main files - .rtf](./r1_5_1.rtf)
