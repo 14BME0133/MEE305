@@ -41,3 +41,15 @@ click here to get [the .doc for R-I 004-002-001](./R1_4_3.doc)
 
 
 [main files - .rtf](./123.rtf)
+
+
+---
+
+
+
+## updated: 28.09 / 1346
+
+
+[main files - .rtf](./x123.rtf)
+
+[main files - .docx](./x123.docx)
