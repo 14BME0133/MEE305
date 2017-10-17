@@ -1,51 +1,5 @@
 #### ./source
 
-click here to get [the .pdf for R-I 000-006-003](./R1_6_003.pdf)
-
-
-
-click here to get [the .pdf for R-I 004-002-000](./R1_4_2.pdf)
-
-
-
-click here to get [the .pdf for R-I 004-002-000](./R1_4_3.pdf)
-  
-  
----
-
-
-click here to get [the .rtf for R-I 004-002-001](./R1_4_2.rtf)
-
-
-click here to get [the .doc for R-I 004-002-001](./R1_4_3.doc)
-
-
----
-
-## updated: 01:52PM
-
-[main files - .pdf](./r1_5_1.pdf)
-
-
-[main files - .doc](./r1_5_1.doc)
-
-
-[main files - .rtf](./r1_5_1.rtf)
-
-
----
-
-
-
-## updated: 28.09
-
-
-[main files - .rtf](./123.rtf)
-
-
----
-
-
 
 ## updated: 28.09 / 1346
 
@@ -53,3 +7,11 @@ click here to get [the .doc for R-I 004-002-001](./R1_4_3.doc)
 [main files - .rtf](./x123.rtf)
 
 [main files - .docx](./x123.docx)
+  
+  
+  
+---
+
+You may download the entire source tree [here](https://github.com/14BME0133/MEE305/)
+
+(C) 2017.10-17 NIKHIL PANDITA
